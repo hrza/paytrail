@@ -1,0 +1,14 @@
+{
+    "name": "appsco/paytrail",
+    "description": "Paytrail",
+    "authors": [
+        {
+            "name": "Marjan Hrzic",
+            "email": "marjan.hrzic@boutsourcing.com"
+        }
+    ],
+    "require": {},
+     "autoload": {
+        "classmap": ["lib"]
+    }
+}
